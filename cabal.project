@@ -1,1 +1,16 @@
 packages: .
+
+source-repository-package
+    type: git
+    location: https://github.com/ysangkok/snap-server.git
+    tag: d5e00e18aff1ead658f73b1e74c2e9dad74f5b57
+
+source-repository-package
+    type: git
+    location: https://github.com/space-vacuum/ekg-json.git
+    tag: bba08f9963a9f5c18d3cdd75a90510e4890a48a9
+
+source-repository-package
+    type: git
+    location: https://github.com/space-vacuum/ekg.git
+    tag: cf742e3d67ec3998ade7193f6a99202ed4e4e87a

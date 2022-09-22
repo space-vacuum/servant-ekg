@@ -11,7 +11,6 @@ module Servant.EkgSpec (spec) where
 
 import           Data.Aeson
 import qualified Data.HashMap.Strict                        as H
-import           Data.Monoid                                ((<>))
 import           Data.Proxy
 import           Data.Text
 import           GHC.Generics
